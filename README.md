@@ -10,14 +10,6 @@ Ok Google Hire Us (link - https://drive.google.com/file/d/1Lu68HIgbKUACK4KG5tI9Q
 - **Skill Matching Visualization**: Includes visual elements like heatmaps to showcase how well candidates' skills match suggested job roles.
 - **Continuous Learning**: The AI model is continuously updated based on feedback, ensuring that role predictions remain accurate and relevant.
 
-## Tech Stack
-- **Programming Languages**: Python
-- **Machine Learning Libraries**: Scikit-learn, TensorFlow, or PyTorch
-- **Data Visualization**: Matplotlib, Seaborn
-- **Database**: Firebase / MongoDB / SQL
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Flask 
-
 ## System Architecture
 The system consists of the following components:
 - **Candidate Profiling Module**: Collects data such as skills, experience, preferences, and more from candidates.
