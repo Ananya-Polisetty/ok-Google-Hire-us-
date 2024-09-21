@@ -16,7 +16,7 @@ Ok Google Hire Us (link - https://drive.google.com/file/d/1Lu68HIgbKUACK4KG5tI9Q
 - **Data Visualization**: Matplotlib, Seaborn
 - **Database**: Firebase / MongoDB / SQL
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Flask / Django
+- **Backend**: Flask 
 
 ## System Architecture
 The system consists of the following components:
